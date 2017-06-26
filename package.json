@@ -1,0 +1,14 @@
+{
+  "name": "mpb",
+  "version": "1.0.0",
+  "description": "Mythic Plus Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
